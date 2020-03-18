@@ -9,11 +9,6 @@ Wireguard-Go userspace implementation is not the recommended way to use Wireguar
 
 Let's see how to run Wireguard if you need to deal with a server with an old kernel version (I tried on Debian 7, Kernel 3.2.). 
 
-
-## 1. Wireguard installation (Raspberry Pi 2 and above)
-
-
-
 [Download the archive](https://golang.org/dl/) and extract it into /usr/local, creating a Go tree in /usr/local/go. For example:
 
 ```console
